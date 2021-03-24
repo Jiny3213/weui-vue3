@@ -1,0 +1,14 @@
+.wx-fade-enter-from,
+.wx-fade-leave-to {
+  opacity: 0;
+}
+.wx-fade-enter-to,
+.wx-fade-leave-from {
+  opacity: 1;
+}
+.wx-fade-enter-active,
+.wx-fade-leave-active{
+  transition: all 0.2s ease;
+}
+
+
